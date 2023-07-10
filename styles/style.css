@@ -64,6 +64,7 @@
 .ff-title {
     font-size: 40px;
     font-weight: 800;
+    padding-bottom: 20px;
 }
 
 .ff-pera {
@@ -72,3 +73,50 @@
     font-weight: 400;
     line-height: 30px;
 }
+
+.flower-tree-cont {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px 150px 0px 150px;
+}
+
+.pink-tree {
+    width: 250px;
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    background-image: url('../Flower Asset/pngwing 6.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.red-tree {
+    width: 250px;
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    background-image: url('/Flower Asset/pngwing 5.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.yellow-tree{
+    width: 250px;
+    height: 320px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    background-image: url('/Flower Asset/pngwing 7.png');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+.li-texts{
+    list-style:none ;
+    display: flex;
+    justify-content: center;
+    gap: 190px;
+    padding: 10px 150px 130px 150px;
+    text-decoration-line: underline;
+}
+/*  Featured Flower section END  */
