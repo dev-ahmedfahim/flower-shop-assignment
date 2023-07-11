@@ -51,7 +51,10 @@
     height: 510px;
     width: 370px;
 }
+.home-img-div{
 
+    padding-top: 90px;
+}
 /* home page items style END */
 
 /* Featured Flower section started */
@@ -124,25 +127,24 @@
 }
 
 /*  Featured Flower section END  */
+
 /* store feature section started */
+
 .store-feature {
-    width: 1050px;
-    height: 320px;
+    margin: 0 150px;
+    width: auto;
+    height: 250px;
+    background: rgba(39, 39, 39, 0.05);
 }
 
 .s-feature-cont {
-    padding-top: 30px;
+    padding-top: 60px;
     list-style: none;
     justify-content: center;
     gap: 100px;
     align-items: center;
     display: flex;
-    border-radius: 8px;
-    background: rgba(39, 39, 39, 0.05);
-    width: 1050px;
-    height: 300px;
-    margin: 0 150px 0px 150px;
-}
+    border-radius: 8px;}
 
 .sf-icon1 {
     line-height: 185px;
@@ -288,4 +290,25 @@
     padding-left: 20px;
     padding-top: 5px;
 
+}
+/* footer section started */
+.footer{
+    margin-top: 130px;
+    background-color: rgba(255, 182, 198, 0.5);
+    width: auto;
+    height:350px ;
+    text-align: center;
+}
+.footer-title{
+    padding-top: 100px;
+    color:black;
+font-size: 40px;
+font-weight: 800;;
+}
+.footer-title-pink{
+    color: #E55473;
+}
+.footer-pera{
+    color: #272727;
+    padding-top: 20px;
 }
