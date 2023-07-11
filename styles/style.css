@@ -100,7 +100,7 @@
     height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    background-image: url('/images/pngwing5.png');
+    background-image: url('../images/pngwing5.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -111,7 +111,7 @@
     height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    background-image: url('/images/pngwing7.png');
+    background-image: url('../images/pngwing7.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -148,7 +148,7 @@
 
 .sf-icon1 {
     line-height: 185px;
-    background-image: url('/images/group57.png');
+    background-image: url('../images/group57.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
@@ -156,7 +156,7 @@
 
 .sf-icon2 {
     line-height: 185px;
-    background-image: url('/images/group58.png');
+    background-image: url('../images/group58.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
@@ -164,7 +164,7 @@
 
 .sf-icon3 {
     line-height: 185px;
-    background-image: url('/images/group59.png');
+    background-image: url('../images/group59.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
@@ -249,7 +249,7 @@
 
 .latest-deals-cont {
     margin-top: 130px;
-    background-image: url('/images/rectangle9.png');
+    background-image: url('../images/rectangle9.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
