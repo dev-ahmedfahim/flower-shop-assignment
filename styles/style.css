@@ -86,37 +86,115 @@
     height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
-    background-image: url('../Flower Asset/pngwing 6.png');
+    background-image: url('../images/pngwing6.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 200px;
 }
+
 .red-tree {
     width: 250px;
     height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-    background-image: url('/Flower Asset/pngwing 5.png');
+    background-image: url('/images/pngwing5.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 200px;
 }
-.yellow-tree{
+
+.yellow-tree {
     width: 250px;
     height: 320px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    background-image: url('/Flower Asset/pngwing 7.png');
+    background-image: url('/images/pngwing7.png');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: 200px;
 }
-.li-texts{
-    list-style:none ;
+
+.li-texts {
+    list-style: none;
     display: flex;
     justify-content: center;
     gap: 190px;
     padding: 10px 150px 130px 150px;
     text-decoration-line: underline;
 }
+
 /*  Featured Flower section END  */
+/* store feature section started */
+.store-feature {
+    width: 1050px;
+    height: 320px;
+}
+
+.s-feature-cont {
+    padding-top: 30px;
+    list-style: none;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1050px;
+    height: 300px;
+    margin: 0 150px 0px 150px;
+}
+
+.sf-icon1 {
+    line-height: 185px;
+    background-image: url('/images/Group57.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 70px;
+}
+
+.sf-icon2 {
+    line-height: 185px;
+    background-image: url('/images/Group58.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 70px;
+}
+
+.sf-icon3 {
+    line-height: 185px;
+    background-image: url('/images/Group59.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 70px;
+}
+
+.hot-deal-texts {
+    margin: 100px 150px;
+    text-align: center;
+}
+
+.hot-deal-section {
+    margin-top: 130px;
+    display: flex;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.05)
+}
+.deal-title-style{
+    color: #E55473;
+}
+.deal-details{
+    margin-bottom: 30px;
+    max-width:600px ;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.hot-deal-img{
+    padding-right: 250px;
+    display: flex;
+    align-items: center;
+}
