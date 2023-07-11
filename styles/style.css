@@ -146,7 +146,7 @@
 
 .sf-icon1 {
     line-height: 185px;
-    background-image: url('/images/Group57.png');
+    background-image: url('/images/group57.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
@@ -154,7 +154,7 @@
 
 .sf-icon2 {
     line-height: 185px;
-    background-image: url('/images/Group58.png');
+    background-image: url('/images/group58.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
@@ -162,11 +162,13 @@
 
 .sf-icon3 {
     line-height: 185px;
-    background-image: url('/images/Group59.png');
+    background-image: url('/images/group59.png');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: 70px;
 }
+/* store feature section END */
+/* Hot deals section started */
 
 .hot-deal-texts {
     margin: 100px 150px;
@@ -198,3 +200,6 @@
     display: flex;
     align-items: center;
 }
+/* Hot deals section END */
+
+/* insta section started  */
