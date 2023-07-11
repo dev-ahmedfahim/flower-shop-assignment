@@ -167,6 +167,7 @@
     background-position: center top;
     background-size: 70px;
 }
+
 /* store feature section END */
 /* Hot deals section started */
 
@@ -181,12 +182,14 @@
     justify-content: space-between;
     background: rgba(229, 84, 115, 0.05)
 }
-.deal-title-style{
+
+.deal-title-style {
     color: #E55473;
 }
-.deal-details{
+
+.deal-details {
     margin-bottom: 30px;
-    max-width:600px ;
+    max-width: 600px;
 }
 
 .deal-title {
@@ -195,11 +198,94 @@
     font-weight: 800;
     margin-bottom: 30px;
 }
-.hot-deal-img{
+
+.hot-deal-img {
     padding-right: 250px;
     display: flex;
     align-items: center;
 }
+
 /* Hot deals section END */
 
 /* insta section started  */
+
+.insta-sect-img-cont {
+    margin-top: 45px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.insta-img {
+    width: 240px;
+    height: 250px;
+}
+
+.insta-sect-texts {
+    text-align: center;
+}
+
+.insta-sect-title {
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+    margin-top: 130px;
+
+}
+
+.insta-pera {
+    margin-top: 20px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* insta section END */
+
+/* latest deals section started */
+
+.latest-deals-cont {
+    margin-top: 130px;
+    background-image: url('/images/rectangle9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
+.latest-deals-text-cont {
+    text-align: center;
+    padding-top: 110px;
+}
+
+.lt-deals-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.lt-deals-pera {
+    padding-top: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.email-input-cont {
+    padding-bottom: 50px;
+    padding-top: 45px;
+    text-align: center;
+}
+
+.email-input {
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+    width: 500px;
+    height: 40px;
+    padding-left: 20px;
+    padding-top: 5px;
+
+}
