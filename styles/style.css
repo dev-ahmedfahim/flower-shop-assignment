@@ -7,6 +7,8 @@
 
 .header {
     background: rgba(229, 84, 115, 0.10);
+    height: 700px;
+    width: auto;
 }
 
 /* home page items style started */
@@ -24,8 +26,9 @@
 
 .home-title {
     color: #272727;
-    font-size: 70px;
+    font-size: 50px;
     font-weight: 800;
+    width: 600px;
 }
 
 .home-prgph {
@@ -48,6 +51,7 @@
 }
 
 .home-img {
+    /* margin-left: 70px; */
     height: 510px;
     width: 370px;
 }
