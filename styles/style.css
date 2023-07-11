@@ -55,10 +55,12 @@
     height: 510px;
     width: 370px;
 }
-.home-img-div{
+
+.home-img-div {
 
     padding-top: 90px;
 }
+
 /* home page items style END */
 
 /* Featured Flower section started */
@@ -148,7 +150,8 @@
     gap: 100px;
     align-items: center;
     display: flex;
-    border-radius: 8px;}
+    border-radius: 8px;
+}
 
 .sf-icon1 {
     line-height: 185px;
@@ -186,7 +189,7 @@
     margin-top: 130px;
     display: flex;
     justify-content: space-between;
-    background: rgba(229, 84, 115, 0.05)
+    background: rgba(229, 84, 115, 0.051)
 }
 
 .deal-title-style {
@@ -249,6 +252,61 @@
 
 /* insta section END */
 
+/* order now section started */
+.cart-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 130px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.cart-container {
+    background-color: rgba(229, 84, 115, 0.051);
+    width: 1060px;
+    height: 300px;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    border-radius: 8px;
+}
+
+.flower-cart {
+    width: 190px;
+    height: 250px;
+    background-color: rgba(245, 245, 245,0.4);
+    box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, 0.1);
+    margin: auto;
+    border-radius: 8px;
+}
+.flower-color{
+    color: #E55473;
+}
+.cart-btn {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 49px;
+    height: 30px;
+    width: 90px;
+    padding: 0;
+    font-size: 13px;
+}
+
+.cart-one {
+    padding-left: 15px;
+    height: 154px;
+    width: 145px;
+}
+
+.price {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 15px;
+}
+/* order now section End */
+
 /* latest deals section started */
 
 .latest-deals-cont {
@@ -295,24 +353,29 @@
     padding-top: 5px;
 
 }
+
 /* footer section started */
-.footer{
+.footer {
     margin-top: 130px;
     background-color: rgba(255, 182, 198, 0.5);
     width: auto;
-    height:350px ;
+    height: 350px;
     text-align: center;
 }
-.footer-title{
+
+.footer-title {
     padding-top: 100px;
-    color:black;
-font-size: 40px;
-font-weight: 800;;
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    ;
 }
-.footer-title-pink{
+
+.footer-title-pink {
     color: #E55473;
 }
-.footer-pera{
+
+.footer-pera {
     color: #272727;
     padding-top: 20px;
 }
